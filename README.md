@@ -26,6 +26,6 @@ https://drive.google.com/file/d/1-XWzpmvReeTzhGhthuyVTUOKWGWJGdXZ/view?usp=shari
 	gauth.credentials = GoogleCredentials.get_application_default()
 	drive = GoogleDrive(gauth)
 	file_id = "YOUR_FILE_ID"
-	For example: "1-sltCi9nCSQmA-xaBPutq6Yfl6YONC_H" id of Tokenizer file
+	# For example: "1-sltCi9nCSQmA-xaBPutq6Yfl6YONC_H" id of Tokenizer file
 	downloaded = drive.CreateFile({'id': file_id})
 	downloaded.GetContentFile(os.path.join(data_dir, 'file_name.zip'))
