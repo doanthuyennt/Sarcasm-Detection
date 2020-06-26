@@ -4,6 +4,9 @@
 Nhóm bao gồm:
 Trần Doãn Thuyên 18521479
 
+Link to notebook:
+https://colab.research.google.com/drive/1mSmOgXrD3HioNgDJyJEdqtjxgS4haLTX?authuser=1#scrollTo=bEsb3jIXvy5F
+
 Get Embedding Vectors matrix from:
 https://drive.google.com/file/d/1-hXkwyjks0DbO2V2mfhbH9bUibnITc99/view?usp=sharing
 
