@@ -1,5 +1,9 @@
 "# Sarcasm-Detection"
 
+
+Nhóm bao gồm:
+Trần Doãn Thuyên 18521479
+
 Get Embedding Vectors matrix from:
 https://drive.google.com/file/d/1-hXkwyjks0DbO2V2mfhbH9bUibnITc99/view?usp=sharing
 
