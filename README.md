@@ -24,6 +24,8 @@ https://drive.google.com/file/d/1-XWzpmvReeTzhGhthuyVTUOKWGWJGdXZ/view?usp=shari
 
 
 ### Using drive-link:
+	from pydrive.auth import GoogleAuth
+	from pydrive.drive import GoogleDrive
 	auth.authenticate_user()
 	gauth = GoogleAuth()
 	gauth.credentials = GoogleCredentials.get_application_default()
